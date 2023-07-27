@@ -9,6 +9,7 @@ TechTools used :
                  2. Jupyter Notebook 
                  3. NumPy 
                  4. Pandas 
-                 5. Scikit-Learn
+                 5. Seaborn
+                 6. Scikit-Learn
 
 Machine Learning Model used : RandomForestRegressor -> As this is the regression problem, RandomForestRegressor suits better over all other models to predict gold prices.
