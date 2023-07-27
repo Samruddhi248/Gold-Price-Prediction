@@ -3,8 +3,9 @@ This project mainly focuses on Predicting the gold prices using machine learning
 
 Programming Language used : Python
 
-TechTools used : 1. Kaggle (for downloading Dataset) 
+TechTools used : 
 
+                 1. Kaggle (for downloading Dataset) 
                  2. Jupyter Notebook 
                  3. NumPy 
                  4. Pandas 
